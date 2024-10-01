@@ -38,6 +38,8 @@ The NBA Player Analysis Dashboard provides a detailed examination of player perf
 
 
 PROJECT-2:💫BIG GAME CENSUS DATA VISUALIZATION💫
+
+
  🔎Project Overview: 
 You will be responsible for creating a Big Game Census Data Visualization. The goal is to analyse and visualize census data related to big game populations and trends, providing clear insights for decision-making.
 
